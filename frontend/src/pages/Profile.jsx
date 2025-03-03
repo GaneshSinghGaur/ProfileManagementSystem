@@ -3,8 +3,6 @@ import { Link, useNavigate, useParams } from 'react-router-dom';
 import axios from 'axios'
 
 
-
-
 const InputPage = () => {
     const navigate=useNavigate()
     const {username, newUser}=useParams();
@@ -163,7 +161,7 @@ const InputPage = () => {
                
                 {/* Footer */}
                 <footer className="bg-gray-800 py-4 text-white text-center">
-                    Made by <Link to={"https://www.linkedin.com/in/gaurav-sharma-9556b2196/"}>Gaurav Sharma</Link> (NIT RKL)
+                    Made by <Link to={"https://www.linkedin.com/in/ganesh-singh-gaur-21780b23b/"}>Ganesh Singh</Link> (NIT RKL)
                 </footer>
             </div>
         </div>

@@ -30,7 +30,7 @@ export function Home(){
             </button>
           </div>
           <footer className="bg-gray-900 text-white text-center py-4">
-            <p>&copy; 2024 <Link to={"https://www.linkedin.com/in/gaurav-sharma-9556b2196/"}>Gaurav Sharma</Link>. All rights reserved.</p>
+            <p>&copy; 2025 <Link to={"https://www.linkedin.com/in/ganesh-singh-gaur-21780b23b/"}>Ganesh Singh</Link>. All rights reserved.</p>
           </footer>
         </div>
       );
